@@ -1,4 +1,4 @@
-# Storybook CSS Modules preset &middot; [![npm package](https://img.shields.io/npm/v/storybook-css-modules?color=green&label=npm&style=flat-square)](https://www.npmjs.com/package/storybook-css-modules)
+# Storybook CSS Modules preset &middot; [![npm package](https://img.shields.io/npm/v/storybook-css-modules?color=green&label=npm&style=flat-square)](https://www.npmjs.com/package/storybook-css-modules) [![npm downloads](https://img.shields.io/npm/dw/storybook-css-modules.svg?style=flat-square)](https://storybook.js.org/addons/storybook-css-modules)
 
 Storybook preset addon to add _CSS Modules_ capabilities.
 
